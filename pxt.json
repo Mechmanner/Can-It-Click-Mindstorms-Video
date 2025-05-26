@@ -1,5 +1,5 @@
 {
-    "name": "Can It Click? Video",
+    "name": "Can It Click Video",
     "description": "",
     "dependencies": {
         "ev3": "*"
